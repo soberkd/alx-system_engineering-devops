@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty hello if only guillaume
+chown root hello if only guillaume
