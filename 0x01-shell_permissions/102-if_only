@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty if only guillaume: hello
+chown --from=guillaume betty hello
