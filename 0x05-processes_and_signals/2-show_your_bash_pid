@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Displays list of currently running process containing bash keyword
+# shellcheck diasble=SC2009
+
+ps -aux | grep bash
